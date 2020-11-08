@@ -64,7 +64,7 @@ hysteresis<br>
 forward bifurcation<br>
 inverted/backward bifurcation<br>
 # 2D flows
-## 5.0 intro
+### 5.0 intro
 2D linear system<br>
 phase plane<br>
 phase portrait<br>
@@ -79,7 +79,7 @@ Liapunov stable<br>
 neutrally stable<br>
 asymptotically stable/stable<br>
 unstable<br>
-## 5.2 classification of linear systems
+### 5.2 classification of linear systems
 straight line trajectories<br>
 eigendirection<br>
 complex eigenvalues<br>
@@ -89,4 +89,14 @@ degenerate node<br>
 classification of FPs<br>
 non-isolated FP<br>
 nodes<br>
+## Chapter 6 phase plane
+### 6.1 phase portraits
+features of phase portrait <br>
+direction field<br>
+nullclines<br>
+### 6.2 existence, uniqueness, and topological consequences
+existence and uniqueness theorem<br>
+trajectory in closed orbit<br>
+Poincare-Bendixson theorem<br>
+### 6.3 fixed points and linearization
 
