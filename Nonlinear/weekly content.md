@@ -64,6 +64,7 @@ hysteresis<br>
 forward bifurcation<br>
 inverted/backward bifurcation<br>
 # 2D flows
+## Chapter 5 linear systems
 ### 5.0 intro
 2D linear system<br>
 phase plane<br>
