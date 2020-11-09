@@ -3,6 +3,13 @@ text: Strogatz
 ## Chapter 1
 linear system<br>
 nonlinear system<br>
+autonomous/nonautonomous system<br>
+predator-prey<br>
+iterated map<br>
+logistic map<br>
+difference equation/map<br>
+analytical techniques<br>
+superposed solutions<br>
 trajectory<br>
 phase space<br>
 nonautonomous equations<br>
