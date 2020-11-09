@@ -107,4 +107,21 @@ existence and uniqueness theorem<br>
 trajectory in closed orbit<br>
 Poincare-Bendixson theorem<br>
 ### 6.3 fixed points and linearization
+Jacobian matrix<br>
+linearized system<br>
+use linearization to classify FPs<br>
+uncoupled<br>
+invariant lines<br>
+symmetria/reversible<br>
+change of stability<br>
+repellers/sources<br>
+attractors/sinks<br>
+saddles<br>
+centres<br>
+higher-order and non-isolated FPs<br>
+hyperbolic<br>
+### 6.7 pendulum
+librations<br>
+reversible<br>
+conservative<br>
 
