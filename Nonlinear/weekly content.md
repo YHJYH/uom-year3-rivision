@@ -120,6 +120,14 @@ saddles<br>
 centres<br>
 higher-order and non-isolated FPs<br>
 hyperbolic<br>
+### 6.5 conservative systems
+conservative system<br>
+conserved quantity<br>
+homoclinic orbits<br>
+energy surface<br>
+<br>
+nonlinear centres<br>
+theorem 6.5.1<br>
 ### 6.7 pendulum
 librations<br>
 reversible<br>
